@@ -1,2 +1,0 @@
-# datasciencecorseera
-for the project
